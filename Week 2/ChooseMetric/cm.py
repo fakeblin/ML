@@ -8,6 +8,7 @@ data = load_boston()
 data['data'] = scale(data['data'])
 
 p = np.linspace(1, 10, 200)
+# генератор разбиений
 kf = KFold(n_splits=5, shuffle=True, random_state=42)
 
 file = open("grade.txt", "w")
@@ -15,7 +16,7 @@ file = open("grade.txt", "w")
 for i in p:
     model = KNeighborsRegressor(metric='minkowski', n_neighbors=5,
                                 weights='distance', p=i)
-    # model.fit(data['data'], data['target'])
+    # Вычислить качество на всех разбиениях
     grade = cross_val_score(estimator=model, X=data['data'], y=data['target'],
                             cv=kf, scoring='neg_mean_squared_error')
 

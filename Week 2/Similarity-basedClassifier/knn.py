@@ -18,6 +18,7 @@ file = open("gradeBeforeScale.txt", "a")
 for i in range(1, 50):
     model = KNeighborsClassifier(n_neighbors=i)
     knn = model.fit(data_attribute, data_class)
+    # Вычислить качество
     grade = cross_val_score(estimator=knn, X=data_attribute, y=data_class, cv=kf)
 
     if max < grade.mean():
