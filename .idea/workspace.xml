@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1394950a-2b4b-410c-949d-ffa91e153a23" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChooseMetric/cm.py" afterPath="$PROJECT_DIR$/ChooseMetric/cm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Similarity-basedClassifier/knn.py" afterPath="$PROJECT_DIR$/Similarity-basedClassifier/knn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 2/NormalizationOfSymptoms/nos.py" afterPath="$PROJECT_DIR$/Week 2/NormalizationOfSymptoms/nos.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,14 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Coursera_ML$cm.coverage" NAME="cm Coverage Results" MODIFIED="1521910447428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChooseMetric" />
+    <SUITE FILE_PATH="coverage/Coursera_ML$ans_int.coverage" NAME="ans_int Coverage Results" MODIFIED="1522560929384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/AnalysisText" />
     <SUITE FILE_PATH="coverage/Coursera_ML$NumPy_Task.coverage" NAME="NumPy_Task Coverage Results" MODIFIED="1521135195417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Coursera_ML$DecisionTrees.coverage" NAME="DecisionTrees Coverage Results" MODIFIED="1521898072694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionTrees.Programming_Assignment" />
+    <SUITE FILE_PATH="coverage/Coursera_ML$at.coverage" NAME="at Coverage Results" MODIFIED="1522561451930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/AnalysisText" />
     <SUITE FILE_PATH="coverage/Coursera_ML$nos.coverage" NAME="nos Coverage Results" MODIFIED="1522487667021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NormalizationOfSymptoms" />
     <SUITE FILE_PATH="coverage/Coursera_ML$3.coverage" NAME="3 Coverage Results" MODIFIED="1521221027158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas.Programming_Assignment" />
     <SUITE FILE_PATH="coverage/Coursera_ML$1.coverage" NAME="1 Coverage Results" MODIFIED="1521567988612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas.Programming_Assignment" />
+    <SUITE FILE_PATH="coverage/Coursera_ML$svm.coverage" NAME="svm Coverage Results" MODIFIED="1522496989054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/SVM" />
     <SUITE FILE_PATH="coverage/Coursera_ML$4.coverage" NAME="4 Coverage Results" MODIFIED="1521221055580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas.Programming_Assignment" />
     <SUITE FILE_PATH="coverage/Coursera_ML$5.coverage" NAME="5 Coverage Results" MODIFIED="1521282065368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas.Programming_Assignment" />
     <SUITE FILE_PATH="coverage/Coursera_ML$knn.coverage" NAME="knn Coverage Results" MODIFIED="1521905769890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Similarity-basedClassifier" />
@@ -29,47 +31,24 @@
     <SUITE FILE_PATH="coverage/Coursera_ML$inter.coverage" NAME="inter Coverage Results" MODIFIED="1522486648768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NormalizationOfSymptoms" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="nos.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/nos.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lr.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 3/LogisticRegression/lr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            <state relative-caret-position="154">
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
-                <element signature="e#647#729#0" expanded="false" />
-                <element signature="e#1025#1051#0" expanded="false" />
-                <element signature="e#1123#1206#0" expanded="false" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="difference_accuracy.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/difference_accuracy.txt">
+      <file leaf-file-name="nos.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/NormalizationOfSymptoms/nos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="perceptron-test.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/perceptron-test.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="perceptron-train.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/perceptron-train.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+            <state relative-caret-position="66">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -125,6 +104,15 @@
         <option value="$PROJECT_DIR$/NormalizationOfSymptoms/difference_accuracy.txt" />
         <option value="$PROJECT_DIR$/NormalizationOfSymptoms/int.py" />
         <option value="$PROJECT_DIR$/NormalizationOfSymptoms/nos.py" />
+        <option value="$PROJECT_DIR$/Week 2/NormalizationOfSymptoms/nos.py" />
+        <option value="$PROJECT_DIR$/Week 3/svm.py" />
+        <option value="$PROJECT_DIR$/Week 3/SVM/svm.py" />
+        <option value="$PROJECT_DIR$/Week 3/SVM/support_vector.txt" />
+        <option value="$PROJECT_DIR$/Week 3/AnalysisText/analysis.txt" />
+        <option value="$PROJECT_DIR$/Week 3/AnalysisText/ans_int.py" />
+        <option value="$PROJECT_DIR$/Week 3/AnalysisText/at.py" />
+        <option value="$PROJECT_DIR$/Week 3/AnalysisText/10_words.txt" />
+        <option value="$PROJECT_DIR$/Week 3/LogisticRegression/lr.py" />
       </list>
     </option>
   </component>
@@ -135,8 +123,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="310" />
-    <option name="y" value="54" />
+    <option name="x" value="372" />
+    <option name="y" value="231" />
     <option name="width" value="1460" />
     <option name="height" value="922" />
   </component>
@@ -159,6 +147,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,11 +155,21 @@
               <item name="Coursera.ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursera.ML" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Coursera.ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coursera.ML" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coursera.ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coursera.ML" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 3" type="462c0819:PsiDirectoryNode" />
+              <item name="LogisticRegression" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,9 +179,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Documents\Pycharm Project\Coursera.ML\Week 3\LogisticRegression" />
       <recent name="H:\Documents\Pycharm Project\Coursera.ML\Similarity-basedClassifier" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Documents\Pycharm Project\Coursera.ML\Week 3\SVM" />
       <recent name="H:\Documents\Pycharm Project\Coursera.ML" />
       <recent name="H:\Documents\Pycharm Project\Coursera.ML\Introducing_NumPy" />
     </key>
@@ -199,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nos">
+  <component name="RunManager" selected="Python.at">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,20 +219,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="cm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ans_int" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="H:\Soft\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChooseMetric" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3/AnalysisText" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Coursera.ML" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChooseMetric/cm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/AnalysisText/ans_int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="at" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="H:\Soft\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3/AnalysisText" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Coursera.ML" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/AnalysisText/at.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,42 +273,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="inter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="H:\Soft\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NormalizationOfSymptoms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Coursera.ML" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NormalizationOfSymptoms/inter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="H:\Soft\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Similarity-basedClassifier" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Coursera.ML" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Similarity-basedClassifier/knn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="nos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,20 +291,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="H:\Soft\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3/SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Coursera.ML" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/SVM/svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.knn" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cm" />
-      <item index="2" class="java.lang.String" itemvalue="Python.nos" />
-      <item index="3" class="java.lang.String" itemvalue="Python.inter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.int" />
+      <item index="0" class="java.lang.String" itemvalue="Python.nos" />
+      <item index="1" class="java.lang.String" itemvalue="Python.int" />
+      <item index="2" class="java.lang.String" itemvalue="Python.svm" />
+      <item index="3" class="java.lang.String" itemvalue="Python.at" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ans_int" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.nos" />
-        <item index="1" class="java.lang.String" itemvalue="Python.int" />
-        <item index="2" class="java.lang.String" itemvalue="Python.inter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cm" />
-        <item index="4" class="java.lang.String" itemvalue="Python.knn" />
+        <item index="0" class="java.lang.String" itemvalue="Python.at" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ans_int" />
+        <item index="2" class="java.lang.String" itemvalue="Python.svm" />
+        <item index="3" class="java.lang.String" itemvalue="Python.nos" />
+        <item index="4" class="java.lang.String" itemvalue="Python.int" />
       </list>
     </recent_temporary>
   </component>
@@ -339,9 +340,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="310" y="54" width="1460" height="922" extended-state="0" />
+    <frame x="372" y="231" width="1460" height="922" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21883656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21883656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -380,134 +382,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="137" />
+      <option name="time" value="147" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="data[0:]" language="Python" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/dtypes/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/internals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="4480" column="0" lean-forward="false" selection-start-line="4480" selection-start-column="0" selection-end-line="4480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="349" column="0" lean-forward="false" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/dtypes/dtypes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1035" column="0" lean-forward="false" selection-start-line="1035" selection-start-column="0" selection-end-line="1035" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/accessor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="811" column="0" lean-forward="false" selection-start-line="811" selection-start-column="0" selection-end-line="811" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/sre_compile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="559" column="0" lean-forward="false" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/pandas/core/dtypes/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="324" column="0" lean-forward="false" selection-start-line="324" selection-start-column="0" selection-end-line="324" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/3.txt" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/2.txt" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/1.txt" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/6.txt" />
     <entry file="file://H:/Soft/Anaconda3/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -515,20 +398,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/6.py" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/5.py" />
     <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -558,160 +429,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/maxBeforeScale.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/maxAfterScale.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/grade.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/gradeBeforeScale.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/gradeAfterScale.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/KAfterScale.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/titanic.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChooseMetric/grade.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1826">
-          <caret line="83" column="20" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introducing_NumPy/NumPy_Task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTrees.Programming_Assignment/DecisionTrees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wine.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/knn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/inter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perceptron-train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChooseMetric/cm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perceptron-test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/2.py" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/1.py" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/3.py" />
+    <entry file="file://$PROJECT_DIR$/Pandas.Programming_Assignment/4.py" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/maxBeforeScale.txt" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/maxAfterScale.txt" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/grade.txt" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/gradeBeforeScale.txt" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/gradeAfterScale.txt" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/KAfterScale.txt" />
+    <entry file="file://$PROJECT_DIR$/titanic.csv" />
+    <entry file="file://$PROJECT_DIR$/ChooseMetric/grade.txt" />
+    <entry file="file://$PROJECT_DIR$/Introducing_NumPy/NumPy_Task.py" />
+    <entry file="file://$PROJECT_DIR$/DecisionTrees.Programming_Assignment/DecisionTrees.py" />
+    <entry file="file://$PROJECT_DIR$/wine.data" />
+    <entry file="file://$PROJECT_DIR$/Similarity-basedClassifier/knn.py" />
+    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/inter.py" />
+    <entry file="file://$PROJECT_DIR$/perceptron-train.csv" />
+    <entry file="file://$PROJECT_DIR$/ChooseMetric/cm.py" />
+    <entry file="file://$PROJECT_DIR$/perceptron-test.csv" />
     <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/sklearn/linear_model/perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -736,31 +473,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/difference_accuracy.txt">
+    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/difference_accuracy.txt" />
+    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/int.py" />
+    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/nos.py" />
+    <entry file="file://$PROJECT_DIR$/Week 3/SVM/svm-data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/int.py">
+    <entry file="file://$PROJECT_DIR$/Week 3/SVM/support_vector.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NormalizationOfSymptoms/nos.py">
+    <entry file="file://$PROJECT_DIR$/Week 3/SVM/svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="12" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <element signature="e#647#729#0" expanded="false" />
-            <element signature="e#1025#1051#0" expanded="false" />
-            <element signature="e#1123#1206#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Soft/Anaconda3/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="572" column="32" lean-forward="false" selection-start-line="572" selection-start-column="32" selection-end-line="572" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/AnalysisText/analysis.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/AnalysisText/10_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" lean-forward="false" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/AnalysisText/ans_int.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/LogisticRegression/data-logistic.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/NormalizationOfSymptoms/difference_accuracy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/NormalizationOfSymptoms/nos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/ChooseMetric/cm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/AnalysisText/at.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/LogisticRegression/lr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>

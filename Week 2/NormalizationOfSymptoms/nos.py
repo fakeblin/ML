@@ -1,7 +1,6 @@
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import Perceptron
 from sklearn.metrics import accuracy_score
-import numpy as np
 import pandas
 
 data_train = pandas.read_csv('../perceptron-train.csv', header=None)
